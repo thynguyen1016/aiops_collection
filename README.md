@@ -1,7 +1,7 @@
 # AIOPS-handbook
 
 Collection of slides, repositories, papers about AIOps, sort by the scenes which were advanced by the 
-<WhitePaper of Enterprise AIOps Recommendation> 
+WhitePaper of Enterprise AIOps Recommendation 
 (https://pic.huodongjia.com/ganhuodocs/2018-04-16/1523873064.74.pdf).
 
 
